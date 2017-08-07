@@ -10,3 +10,9 @@
 npm i -g wintersmith
 
 ```
+
+3. Build the site with:
+
+```sh
+wintersmith build
+```
